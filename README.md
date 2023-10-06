@@ -17,7 +17,11 @@ This repository will provide a comprehensive and detailed introduction to the te
 Main package technology(Source:半导体综研)
 
 ## 1 Chip First and Chip Last
+
 ![image](https://github.com/RIOSMPW/3DPackageTech/assets/100336131/60f31dee-ee17-43e8-9b3f-0e2a8bcd312d)
+
+(Source: Georgia Institute of Technology)
+
 ### 1.1 Flip-Chip
 
 ## 2 Classification of Advanced Package Technology
