@@ -20,7 +20,8 @@ Main package technology(Source:半导体综研)
 
 ## 1 Chip First and Chip Last
 
-![image](https://github.com/RIOSMPW/3DPackageTech/assets/100336131/60f31dee-ee17-43e8-9b3f-0e2a8bcd312d)
+![image](https://github.com/RIOSMPW/3DPackageTech/assets/100336131/d9a52849-76bd-42fb-a337-674b63a3257b)
+
 
 (Source: Georgia Institute of Technology)
 
