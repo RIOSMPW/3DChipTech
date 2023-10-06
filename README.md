@@ -8,12 +8,19 @@ In 3D packaging, multiple dies are stacked vertically, interconnected using thro
 
 On the other hand, 2.5D packaging involves the integration of multiple dies on a silicon interposer. The interposer acts as a bridge, providing electrical connections between the dies. This technology allows for the combination of different types of dies, such as processors, memory, and sensors, in a single package. 2.5D packaging offers improved performance, power efficiency, and system miniaturization.
 
+
 Both 3D and 2.5D package technologies have revolutionized the semiconductor industry by enabling the development of smaller, faster, and more power-efficient electronic devices. These packaging techniques play a crucial role in the advancement of various fields, including mobile devices, automotive electronics, and data centers.
 
 This repository will provide a comprehensive and detailed introduction to the technology behind 3D and 2.5D packaging. It will cover various aspects such as the principles, applications, and advancements in this field. Additionally, it will explore the benefits and challenges associated with these technologies.This comprehensive guide aims to equip designers with the knowledge and insights needed to navigate the exciting world of 3D and 2.5D package technology.
 
 ![image](https://github.com/RIOSMPW/3DPackageTech/assets/100336131/cdf6ecde-63f6-407d-816f-48c36d177b33)
 Main package technology(Source:半导体综研)
+
+## Classification of Advanced Package Technology
+
+![image](https://github.com/RIOSMPW/3DPackageTech/assets/100336131/2af3b620-5ab0-4a9e-a399-dd401e168c00)
+(Source:TSMC)
+
 
 ## Benifits from 3D and 2.5D Package Technology
 
