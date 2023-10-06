@@ -19,7 +19,8 @@ Main package technology(Source:半导体综研)
 ## Classification of Advanced Package Technology
 
 
-![image](https://github.com/RIOSMPW/3DPackageTech/assets/100336131/ac749cb4-f583-4111-90d7-a313d8cf2c4c)
+![image](https://github.com/RIOSMPW/3DPackageTech/assets/100336131/5d9484cc-98d5-4b92-bf11-fde79643971c)
+
 
 Main types of WLSI plotted in the application space by integration area and IO count(Source:TSMC)
 
