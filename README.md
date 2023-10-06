@@ -15,6 +15,23 @@ This repository will provide a comprehensive and detailed introduction to the te
 ![image](https://github.com/RIOSMPW/3DPackageTech/assets/100336131/cdf6ecde-63f6-407d-816f-48c36d177b33)
 Main package technology(Source:半导体综研)
 
+## Benifits from 3D and 2.5D Package Technology
+
+**Significantly reduce the size of the encapsulated chip**
+
+Whether it is the encapsulation of multiple chips or the wafer-level encapsulation of a single chip, it can significantly reduce the size of the package to decrease the footprint of the entire system board. Utilizing packaging methods to shrink the chip area is more cost-effective than improving the front-end process.
+
+**Accommodate more I/O ports for chips**
+
+With the introduction of front-end process methods, we can use RDL technology to accommodate more I/O pins on a unit area of the chip, thus reducing waste of chip area.
+
+**Lower chip manufacturing costs**
+
+With the introduction of the chiplet approach, it becomes relatively easy to encapsulate multiple chips with different functions, process technologies/nodes together to form a system integration chip (SIP). This avoids the need for all functions and IPs to adopt the same (highest) cost method.
+
+**Enhance interconnectivity between chips**
+
+With the increasing demand for high computing power, in many application scenarios, there is a need for a significant amount of data exchange between computing units (CPU, GPU, etc.) and DRAM. This often results in almost half of the system's performance and power consumption being wasted on information exchange. Now, through various 2.5D/3D packaging methods, we can connect processors and DRAM as closely as possible, reducing this loss to less than 20%, thus significantly reducing the cost of computation. This efficiency improvement far exceeds the progress brought by adopting more advanced manufacturing processes.
 
 
 ## About RIOS Lab
