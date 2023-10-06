@@ -12,12 +12,11 @@ On the other hand, 2.5D packaging involves the integration of multiple dies on a
 Both 3D and 2.5D package technologies have revolutionized the semiconductor industry by enabling the development of smaller, faster, and more power-efficient electronic devices. These packaging techniques play a crucial role in the advancement of various fields, including mobile devices, automotive electronics, and data centers.
 
 This repository will provide a comprehensive and detailed introduction to the technology behind 3D and 2.5D packaging. It will cover various aspects such as the principles, applications, and advancements in this field. Additionally, it will explore the benefits and challenges associated with these technologies.This comprehensive guide aims to equip designers with the knowledge and insights needed to navigate the exciting world of 3D and 2.5D package technology.
+
 ![image](https://github.com/RIOSMPW/3DPackageTech/assets/100336131/26155586-8540-4f84-bb03-a73b77f93235)
 
 
 
-
-Main package technology(Source:半导体综研)
 
 ## 1 Chip First and Chip Last
 
@@ -84,6 +83,8 @@ Main types of WLSI plotted in the application space by integration area and IO c
 (Source:TSMC)
 
 ![image](https://github.com/RIOSMPW/3DPackageTech/assets/100336131/613b92a4-5933-4328-b910-f2abae6fb338)
+
+Main package technology(Source:半导体综研)
 
 
 ## 3 Benifits from 3D and 2.5D Package Technology
