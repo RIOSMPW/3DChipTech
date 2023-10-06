@@ -1,3 +1,5 @@
+# 2D Packing
+
 Currently, in the field of advanced packaging, there are three main types that can be distinguished: 2D packaging, 2.5D packaging, and 3D packaging. Each type has its own unique characteristics and applications, offering a wide range of possibilities for various industries. Through continuous research and development, these packaging techniques have evolved to meet the ever-growing demands of modern technology.
 
 2D Packing is a computational problem that involves fitting a set of 2D objects into a container of fixed dimensions in the most efficient way possible. The goal is to minimize wastage of space and optimize the arrangement of objects.
