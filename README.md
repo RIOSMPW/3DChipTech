@@ -13,7 +13,8 @@ Both 3D and 2.5D package technologies have revolutionized the semiconductor indu
 
 This repository will provide a comprehensive and detailed introduction to the technology behind 3D and 2.5D packaging. It will cover various aspects such as the principles, applications, and advancements in this field. Additionally, it will explore the benefits and challenges associated with these technologies.This comprehensive guide aims to equip designers with the knowledge and insights needed to navigate the exciting world of 3D and 2.5D package technology.
 
-![image](https://github.com/RIOSMPW/3DPackageTech/assets/100336131/870e81a7-32ab-4067-814a-35196b4d7fc3)
+![image](https://github.com/RIOSMPW/3DPackageTech/assets/100336131/f1810585-500a-4b9a-a0f7-ac39b066bef2)
+
 
 
 
