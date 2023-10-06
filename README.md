@@ -16,7 +16,7 @@ This repository will provide a comprehensive and detailed introduction to the te
 ![image](https://github.com/RIOSMPW/3DPackageTech/assets/100336131/cdf6ecde-63f6-407d-816f-48c36d177b33)
 Main package technology(Source:半导体综研)
 
-## Classification of Advanced Package Technology
+## 1 Classification of Advanced Package Technology
 
 
 ![image](https://github.com/RIOSMPW/3DPackageTech/assets/100336131/5d9484cc-98d5-4b92-bf11-fde79643971c)
@@ -30,7 +30,7 @@ Main types of WLSI plotted in the application space by integration area and IO c
 (Source:TSMC)
 
 
-## Benifits from 3D and 2.5D Package Technology
+## 2 Benifits from 3D and 2.5D Package Technology
 
 **Significantly reduce the size of the encapsulated chip**
 
