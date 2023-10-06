@@ -22,19 +22,30 @@ Main package technology(Source:半导体综研)
 
 (Source: Georgia Institute of Technology)
 
+
+
+### 1.1 Flip-Chip
+
 Flip chip, also known as controlled collapse chip connection or its abbreviation, C4,[1] is a method for interconnecting dies such as semiconductor devices, IC chips, integrated passive devices and microelectromechanical systems (MEMS), to external circuitry with solder bumps that have been deposited onto the chip pads. 
 The solder bumps are deposited on the chip pads on the top side of the wafer during the final wafer processing step. In order to mount the chip to external circuitry (e.g., a circuit board or another chip or wafer), it is flipped over so that its top side faces down, and aligned so that its pads align with matching pads on the external circuit, and then the solder is reflowed to complete the interconnect. This is in contrast to wire bonding, in which the chip is mounted upright and fine wires are welded onto the chip pads and lead frame contacts to interconnect the chip pads to external circuitry.(Source:Wiki)
 
-** Process steps: **
-Integrated circuits are created on the wafer.
-Pads are metallized on the surface of the chips.
-A solder ball is deposited on each of the pads, in a process called wafer bumping
-Chips are cut.
-Chips are flipped and positioned so that the solder balls are facing the connectors on the external circuitry.
-Solder balls are then remelted (typically using hot air reflow).
-Mounted chip is "underfilled" using a (capillary, shown here) electrically-insulating adhesive.
+Process steps: 
 
-### 1.1 Flip-Chip
+Integrated circuits are created on the wafer.
+
+Pads are metallized on the surface of the chips.
+
+A solder ball is deposited on each of the pads, in a process called wafer bumping
+
+Chips are cut.
+
+Chips are flipped and positioned so that the solder balls are facing the connectors on the external circuitry.
+
+Solder balls are then remelted (typically using hot air reflow).
+
+Mounted chip is "underfilled" using a (capillary, shown here) electrically-insulating adhesive.
+![image](https://github.com/RIOSMPW/3DPackageTech/assets/100336131/a4dbe864-04aa-4574-9f51-a9f57ca0769e)
+
 
 ## 2 Classification of Advanced Package Technology
 
