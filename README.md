@@ -63,7 +63,8 @@ In fan-in wafer-level packaging, which is primarily utilized for low-end mobile 
 Fan-out packaging is available in three types: core, high density, and ultrahigh density. Core packaging is predominantly used for automotive and network applications that do not require high-end technology, such as radio frequency and infotainment chips. High and ultrahigh density packaging are mainly used for mobile applications and are expected to expand into some network and high-performance computing applications.
 
 
-![image](https://github.com/RIOSMPW/3DPackageTech/assets/100336131/c3bd801c-121a-411a-beaa-ff887ef7521a)
+![image](https://github.com/RIOSMPW/3DPackageTech/assets/100336131/0afccb83-e6bc-44ce-99de-d36bf6e3402c)
+
 
 （Source：Micron）
 
