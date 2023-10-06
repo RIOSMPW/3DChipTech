@@ -70,6 +70,17 @@ Fan-out packaging is available in three types: core, high density, and ultrahigh
 
 （Source：Micron）
 
+## 1.3 Chip First
+
+Chip first processing, in which the bare die was molded into a wafer shaped carrier with die pads exposed. Typically sputtering is used to provide interconnects to the die pad followed by patterned electroplating of redistribution lines (RDL) to “Fan Out” the next level interconnect pads to regions that can extend on to the molded material beyond the die perimeter. These processes require the use of relatively expensive semiconductor front end classes of equipment and are tailored to handle the reconstituted molded plastic wafers.
+
+## 1.4 Chip Last
+
+Chip last meets the needs of a large percentage of the applications requiring a packaging technology such as FOWLP. This new package has been in production in ASE for over a year, and uses a “Chip Last” approach to the problem of increasing useable interconnect pad area. Die which have been bumped with Copper(Cu) Pillars are mass reflowed onto a low cost coreless substrate, followed by over molding which also serves as the die underfill. The Cu pillars allow direct connection to die pads at 50 μm pitch or below, negating the requirement for RDL formation on the die.
+
+![image](https://github.com/RIOSMPW/3DPackageTech/assets/100336131/c1636345-9ca6-4ec4-847c-002bf15acf57)
+
+
 
 
 ## 2 Classification of Advanced Package Technology
