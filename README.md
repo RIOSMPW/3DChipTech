@@ -12,8 +12,9 @@ On the other hand, 2.5D packaging involves the integration of multiple dies on a
 Both 3D and 2.5D package technologies have revolutionized the semiconductor industry by enabling the development of smaller, faster, and more power-efficient electronic devices. These packaging techniques play a crucial role in the advancement of various fields, including mobile devices, automotive electronics, and data centers.
 
 This repository will provide a comprehensive and detailed introduction to the technology behind 3D and 2.5D packaging. It will cover various aspects such as the principles, applications, and advancements in this field. Additionally, it will explore the benefits and challenges associated with these technologies.This comprehensive guide aims to equip designers with the knowledge and insights needed to navigate the exciting world of 3D and 2.5D package technology.
+![image](https://github.com/RIOSMPW/3DPackageTech/assets/100336131/26155586-8540-4f84-bb03-a73b77f93235)
 
-![image](https://github.com/RIOSMPW/3DPackageTech/assets/100336131/613b92a4-5933-4328-b910-f2abae6fb338)
+
 
 
 Main package technology(Source:半导体综研)
@@ -22,15 +23,19 @@ Main package technology(Source:半导体综研)
 
 ![image](https://github.com/RIOSMPW/3DPackageTech/assets/100336131/d9a52849-76bd-42fb-a337-674b63a3257b)
 
-
 (Source: Georgia Institute of Technology)
 
+
+While traditional packaging divides the silicon wafer into individual chips first and then attaches the chips to the PCB and establishes the electrical connections, wafer-level packaging creates the electrical connections and molds at the wafer level, and then divides the chips using a laser. The main difference between wafer-level chip-scale packaging (WLCSP) and flip chips in terms of chip configuration is that WLCSPs do not have a substrate between the die and the PCB. Instead, redistribution layers (RDLs) are used as a replacement for the substrate, resulting in a smaller package size and improved thermal conduction.
 
 
 ### 1.1 Flip-Chip
 
 Flip chip, also known as controlled collapse chip connection or its abbreviation, C4,[1] is a method for interconnecting dies such as semiconductor devices, IC chips, integrated passive devices and microelectromechanical systems (MEMS), to external circuitry with solder bumps that have been deposited onto the chip pads. 
+
 The solder bumps are deposited on the chip pads on the top side of the wafer during the final wafer processing step. In order to mount the chip to external circuitry (e.g., a circuit board or another chip or wafer), it is flipped over so that its top side faces down, and aligned so that its pads align with matching pads on the external circuit, and then the solder is reflowed to complete the interconnect. This is in contrast to wire bonding, in which the chip is mounted upright and fine wires are welded onto the chip pads and lead frame contacts to interconnect the chip pads to external circuitry.(Source:Wiki)
+
+ Flip-chip packaging is the most common and lowest-cost technology currently in use, mainly for central processing units, smartphones, and radio-frequency system-in-package solutions.
 
 Process steps: 
 
@@ -50,6 +55,18 @@ Mounted chip is "underfilled" using a (capillary, shown here) electrically-insul
 ![image](https://github.com/RIOSMPW/3DPackageTech/assets/100336131/a4dbe864-04aa-4574-9f51-a9f57ca0769e)
 
 
+## 1.2 Fan-in and Fan-out
+
+Wafer-level packaging is categorized into two types: fan-in and fan-out.
+
+In fan-in wafer-level packaging, which is primarily utilized for low-end mobile phones that necessitate basic technology, the RDLs are routed towards the center of the die. In the fan-out version, introduced in 2007, the RDL and solder balls exceed the size of the die, enabling the chip to have more inputs and outputs while maintaining a thin profile.
+
+Fan-out packaging is available in three types: core, high density, and ultrahigh density. Core packaging is predominantly used for automotive and network applications that do not require high-end technology, such as radio frequency and infotainment chips. High and ultrahigh density packaging are mainly used for mobile applications and are expected to expand into some network and high-performance computing applications.
+
+
+![image](https://github.com/RIOSMPW/3DPackageTech/assets/100336131/f683581a-9d80-4bb2-a83d-a965d25fceaa)
+
+
 ## 2 Classification of Advanced Package Technology
 
 
@@ -62,6 +79,8 @@ Main types of WLSI plotted in the application space by integration area and IO c
 ![eedcbf7be0c5c85386f46c2d4886ef8a_tsmc_chip_packaging_lossy](https://github.com/RIOSMPW/3DPackageTech/assets/100336131/2bc3f47c-6d59-454c-9e9e-88861dd064ea)
 
 (Source:TSMC)
+
+![image](https://github.com/RIOSMPW/3DPackageTech/assets/100336131/613b92a4-5933-4328-b910-f2abae6fb338)
 
 
 ## 3 Benifits from 3D and 2.5D Package Technology
