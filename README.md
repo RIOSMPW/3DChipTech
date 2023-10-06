@@ -18,7 +18,9 @@ Main package technology(Source:半导体综研)
 
 ## Classification of Advanced Package Technology
 
-![image](https://github.com/RIOSMPW/3DPackageTech/assets/100336131/2af3b620-5ab0-4a9e-a399-dd401e168c00)
+![eedcbf7be0c5c85386f46c2d4886ef8a_tsmc_chip_packaging_lossy](https://github.com/RIOSMPW/3DPackageTech/assets/100336131/2bc3f47c-6d59-454c-9e9e-88861dd064ea)
+
+
 (Source:TSMC)
 
 
