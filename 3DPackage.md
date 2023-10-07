@@ -1,3 +1,7 @@
+# 3D package
+
+(Modified from Leo Zhi)
+
 ![image](https://github.com/RIOSMPW/3DChipTech/assets/100336131/0768aea9-bd1c-47b9-9ac2-28e4c9d5fdb6)# 3D Package
 
 The fundamental distinction between 3D and 2.5D packaging is that while 3D packaging directly drills and wires on the chip, electrically linking the top and lower chips, 2.5D packaging wires and drills on the Interposer. The term “3D integration” currently largely refers to integration performed exclusively with 3D TSV.
