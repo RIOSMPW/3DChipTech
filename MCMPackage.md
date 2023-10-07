@@ -5,6 +5,8 @@ A multi-chip module (MCM) is an electronic package consisting of multiple integr
 
 ![image](https://github.com/RIOSMPW/3DChipTech/assets/100336131/1bc0ff02-7134-4250-8baf-b7cd72348cdc)
 
+Comparison among SOC (System-On-Chip), MCM (Multi-Chip Module), SIP (System-In-Package), and SOP (System-On-Package) （Source：Georgia Institute of Technology ）
+
 As an integrated system, an MCM can improve the operation of a device and overcome size and weight constraints.
 
 An MCM offers a packaging efficiency of more than 30%. Some of its advantages are as follows:
