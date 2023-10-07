@@ -6,6 +6,9 @@
 
 In 3D packaging, multiple dies are stacked vertically, interconnected using through-silicon vias (TSVs) or microbumps. This vertical integration allows for shorter interconnect lengths, reduced power consumption, and improved thermal management. 3D packaging is commonly used in applications such as high-performance computing, graphics processing units (GPUs), and memory modules.
 
+![image](https://github.com/RIOSMPW/3DChipTech/assets/100336131/62fef189-d62c-4658-9410-352a29388c79)
+
+
 On the other hand, 2.5D packaging involves the integration of multiple dies on a silicon interposer. The interposer acts as a bridge, providing electrical connections between the dies. This technology allows for the combination of different types of dies, such as processors, memory, and sensors, in a single package. 2.5D packaging offers improved performance, power efficiency, and system miniaturization.
 
 
