@@ -9,7 +9,6 @@ HBM (High-Bandwidth Memory) is a high-bandwidth memory targeted at the high-end 
 
 ![a515d4d9a8b44181f0c6d04493d7dba1_a1331fe8-974b-467a-b978-2036da5314a3](https://github.com/RIOSMPW/3DChipTech/assets/100336131/ee678f04-0981-485e-83fb-27df7bb13a19)
 
-
 HBM（High-Bandwidth Memory ）
 
 HBM is currently available in three versions, HBM, HBM2, and HBM2E, with bandwidths of 128 GBps/Stack, 256 GBps/Stack, and 307 Gbps/Stack respectively, with the latest HBM3 still under development.
