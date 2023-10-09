@@ -1,4 +1,5 @@
 
+# HBM and HMC
 
 HBM
 HBM (High-Bandwidth Memory) is a high-bandwidth memory targeted at the high-end graphics market. HBM uses 3D TSV and 2.5D TSV technologies to stack multiple memory chips together in 3D TSV, and 2.5D TSV technology to interconnect the stacked memory chips with the GPU on the carrier board. The diagram below shows a schematic of HBM technology.
