@@ -13,6 +13,7 @@ HBM（High-Bandwidth Memory ）
 
 
 HBM is vertically stacked DRAM dies connected via Through Silicon Vias (TSVs) and bonded using TCB (hybrid bonding will be required for higher stack counts in the future). Beneath the DRAM dies sits on a base logic die that acts as a controller. Typically, modern HBM has 8 layers of memory and 1 base logic die but we will see products with 12+1 layer HBM soon, for example AMD’s MI300X and Nvidia’s upcoming H100 refresh.
+
 ![37dc16bb5d37da00c831a697d1b1198e_https%3A%2F%2Fsubstack-post-media s3 amazonaws com%2Fpublic%2Fimages%2Fb555e9d1-0d98-43a0-bc74-3e41edd02343_895x427](https://github.com/RIOSMPW/3DChipTech/assets/100336131/f71a5d91-a469-4f84-a579-ac7b53c58b41)
 
 
