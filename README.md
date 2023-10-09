@@ -1,7 +1,7 @@
 ![d944c41020e1aa6319c815a2241af5bd_245348954-9f3d5cb0-e9f8-48c8-b4e6-38c896d54da8](https://github.com/RIOSMPW/3DPackageTech/assets/100336131/4b35880e-241c-4639-b721-54ec10023766)
 
 
-# 3D and 2.5D Chip Technology（Chiplet Technology）
+# 3D, 2.5D and 2D Chip Technology（Chiplet Technology）
 3D and 2.5D Package Technology refers to advanced packaging techniques used in the semiconductor industry. These technologies enable the integration of multiple components or dies into a single package, resulting in increased functionality and performance.
 
 In 3D packaging, multiple dies are stacked vertically, interconnected using through-silicon vias (TSVs) or microbumps. This vertical integration allows for shorter interconnect lengths, reduced power consumption, and improved thermal management. 3D packaging is commonly used in applications such as high-performance computing, graphics processing units (GPUs), and memory modules.
