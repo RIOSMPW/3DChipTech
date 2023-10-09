@@ -1,10 +1,14 @@
 
 # HBM and HMC
 
-HBM
+(Modified from Utmel)
+
+## HBM
+
 HBM (High-Bandwidth Memory) is a high-bandwidth memory targeted at the high-end graphics market. HBM uses 3D TSV and 2.5D TSV technologies to stack multiple memory chips together in 3D TSV, and 2.5D TSV technology to interconnect the stacked memory chips with the GPU on the carrier board. The diagram below shows a schematic of HBM technology.
 
-HBM（High-Bandwidth Memory ）.jpg
+![a515d4d9a8b44181f0c6d04493d7dba1_a1331fe8-974b-467a-b978-2036da5314a3](https://github.com/RIOSMPW/3DChipTech/assets/100336131/ee678f04-0981-485e-83fb-27df7bb13a19)
+
 
 HBM（High-Bandwidth Memory ）
 
@@ -12,10 +16,11 @@ HBM is currently available in three versions, HBM, HBM2, and HBM2E, with bandwid
 
 AMD, NVIDIA, and Hynix are pushing the HBM standard, with AMD first using it for its flagship graphics cards, with memory bandwidths of up to 512 Gbps, and NVIDIA following suit, using HBM to achieve 1TBps of memory bandwidth. Compared to DDR5, HBM improves performance by more than 3 times but reduces power consumption by 50%.
 
-HMC
+## HMC
 HMC (Hybrid Memory Cube) is a hybrid storage cube whose standard is being pushed by Micron. Its target market is the high-end server market, especially for multi-processor architectures. HMC uses stacked DRAM chips to achieve greater memory bandwidth. In addition, HMC integrates the Memory Controller into the DRAM stacked package through 3D TSV integration technology. The diagram below shows the HMC technology.
 
-HMC.jpg
+![00f27f6728d6494b41e4e5038780da3f_5f13c9a0-6466-4151-bdd8-7ca8645bd468](https://github.com/RIOSMPW/3DChipTech/assets/100336131/7a2a2b32-dd61-4634-a0ff-fb7d8e65a326)
+
 
 HMC
 
