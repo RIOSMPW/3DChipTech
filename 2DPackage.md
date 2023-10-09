@@ -38,7 +38,7 @@ The flow of the FOWLP package is shown in the figure below.
 
 FOWLP Packaging Process
 
-## 1.1 InFO of TSMC
+### 1.1 InFO of TSMC
 
 ![image](https://github.com/RIOSMPW/3DPackageTech/assets/100336131/648af194-006c-4a10-ab3c-1fe99f816055)
 
@@ -52,7 +52,7 @@ InFO gives room for multiple chip integration and can be applied to RF and wirel
 
 FIWLP, FOWLP and InFO comparison schematic
 
-## 1.2 eWLB of ASE
+### 1.2 eWLB of ASE
 
 ![image](https://github.com/RIOSMPW/3DPackageTech/assets/100336131/9804f64e-0d4b-475e-88f7-0086ff21f7f7)
 
@@ -71,7 +71,7 @@ Although the physical structure is 3D, the electrical interconnection must pass 
 Physical structure: All chips and passive devices are above the XY plane, some chips do not directly contact the substrate, and the wiring and holes on the substrate are below the XY plane.
 Electrical Connection: All electrical connections must pass through the substrate (except for very few bonding points directly connected by bonding wire)
 
-## FOPLP
+## 2 FOPLP
 FOPLP (Fan-out Panel Level Package) is based on the idea and technology of FOWLP but uses a larger panel, so it can be mass-produced in a package several times larger than a 300 mm silicon wafer chip.
 
 FOPLP technology is an extension of FOWLP technology, which is a Fan-Out process on a larger square carrier board, hence the name FOPLP packaging technology.
