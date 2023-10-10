@@ -138,6 +138,13 @@ A key requirement of any heterogeneous integration system is the available bus b
 
 An electrical design consideration is whether the interconnect characteristics between die (on the interposer or bridge) will support wide parallel bus signaling at lower clock rates to achieve the requisite throughput, or whether a more sophisticated (and more power-hungry) high-speed serial interface design is required.
 
+![image](https://github.com/RIOSMPW/3DChipTech/assets/109063674/63c0ac96-07bb-401d-8b2b-9673668b224d)
+
+Relative size comparison of 3D vias and NAND gates (14nm and 28nm). The diameter of monolithic inter-tier via (MIV) is 50nm, mini TSV is 2μm, and TSV is 5μm (Source: GLOBALFOUNDRIES)
+
+
+
+
 ## 4 Benifits from 3D and 2.5D Package Technology
 
 **Significantly reduce the size of the encapsulated chip**
