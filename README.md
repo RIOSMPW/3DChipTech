@@ -103,8 +103,42 @@ Main types of WLSI plotted in the application space by integration area and IO c
 
 Main package technology(Source:半导体综研)
 
+## 3 Heterogeneous Integration
+（Modified from Synopsys）
 
-## 3 Benifits from 3D and 2.5D Package Technology
+Heterogeneous integration (HI) is a general term used to represent the diverse possibilities for die technology incorporated into advanced 2.5D/3D packaging. 
+
+The nomenclature for advanced HI packaging is illustrated in the figure below.
+
+![image](https://github.com/RIOSMPW/3DChipTech/assets/109063674/5fb152fa-73b3-43e5-856a-99efb8247eb9)
+
+A complex HI package could incorporate:
+
+3D (thinned die) high-bandwidth memory DRAM stacks
+
+3D stacked die
+
+a 2.5D interposer, with redistribution layers (RDL) for signal interconnects between die and the package substrate
+
+a hierarchy of attach technologies:
+
+C4 bumps (~110-150um pitch)
+
+microbumps for die-to-interposer attach (~40-55um pitch)
+
+hybrid bonded (bumpless) attach, for 3D stacked die, in either a face-to-face or face-to-back orientation
+
+through silicon vias (TSVs) in the interposer between the bumps and RDL layers
+
+micro-TSVs through the silicon in the 3D die stack (~10um pitch)
+
+There is also the potential to replace the silicon interposer with smaller silicon “bridges” between die edges in the 2.5D configuration, maintaining the high interconnect density while reducing cost (not shown in the figure above).  The tradeoff with the use of bridges embedded in an organic substrate versus an interposer is the redistribution interconnect density is reduced considerably.
+
+A key requirement of any heterogeneous integration system is the available bus bandwidth for data communication between die.
+
+An electrical design consideration is whether the interconnect characteristics between die (on the interposer or bridge) will support wide parallel bus signaling at lower clock rates to achieve the requisite throughput, or whether a more sophisticated (and more power-hungry) high-speed serial interface design is required.
+
+## 4 Benifits from 3D and 2.5D Package Technology
 
 **Significantly reduce the size of the encapsulated chip**
 
