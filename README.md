@@ -99,9 +99,10 @@ Main types of WLSI plotted in the application space by integration area and IO c
 
 (Source:TSMC)
 
-![image](https://github.com/RIOSMPW/3DPackageTech/assets/100336131/613b92a4-5933-4328-b910-f2abae6fb338)
+![image](https://github.com/RIOSMPW/3DChipTech/assets/100336131/d1aeef3f-c249-4476-b1b4-c6bb67e54149)
 
-Main package technology(Source:半导体综研)
+
+Main package technology
 
 ## 3 Heterogeneous Integration
 （Modified from Synopsys）
